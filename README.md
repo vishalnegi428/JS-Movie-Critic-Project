@@ -1,1 +1,1 @@
-# Movie-Crictic-Project
+# Movie-Critic-Project
